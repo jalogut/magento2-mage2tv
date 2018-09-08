@@ -1,5 +1,6 @@
 parameters:
     git_dir: .
+    bin_dir: vendor/bin
     hide_circumvention_tip: true
     process_timeout: 120
     tasks:
