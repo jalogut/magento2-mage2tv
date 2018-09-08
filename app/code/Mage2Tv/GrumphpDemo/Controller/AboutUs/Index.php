@@ -35,7 +35,7 @@ class Index extends Action
 
     /**
      * Index Action
-     * 
+     *
      * @return \Magento\Framework\View\Result\Page
      */
     public function execute()
