@@ -100,3 +100,5 @@ php.ini.sample
 /phpserver
 /pub
 /setup
+CONTRIBUTING.md
+ISSUE_TEMPLATE.md
